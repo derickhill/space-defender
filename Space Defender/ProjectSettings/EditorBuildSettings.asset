@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Derick/Scenes/Start.unity
+    guid: 51ee325476fddd04dbaf138e94750cb8
+  - enabled: 1
+    path: Assets/Derick/Scenes/Space.unity
+    guid: 76da0e1b803328849815f31c4687c97f
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 3ad02251073a42e43b034346964cbf72, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: ccf826d880a926a41b573b842dc401c2, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 68085d7a2d7a689488cc1ee47c9019b5, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: b9defd75fa1fc8d4e9f695ee2e27b728, type: 2}

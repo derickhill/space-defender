@@ -1,0 +1,110 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror", "Mirror.csproj", "{F3F46B00-D706-1AA2-2E05-5C6163070386}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebTransport", "SimpleWebTransport.csproj", "{5486A05D-5E66-F585-CC67-2E49827E5A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Examples", "Mirror.Examples.csproj", "{84D5AE34-2962-2545-E706-3D33BFA5C95D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Components", "Mirror.Components.csproj", "{8B64BE21-1F10-5C76-A3B0-09A385930FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telepathy", "Telepathy.csproj", "{60D18E09-5B37-6FEE-6EB4-6368AC86905E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{3F177CE4-9EC6-FD10-FB10-5BDAB7327E95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Authenticators", "Mirror.Authenticators.csproj", "{5EFA83C0-35D1-87D6-55D2-503A78297EEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kcp2k", "kcp2k.csproj", "{0BDFF98C-7EE2-CD33-2D60-09A91E1D47B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Examples.Cloud.GUI", "Mirror.Examples.Cloud.GUI.csproj", "{0BC0C7F7-4A23-23F6-DFA3-5477F73A63DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Cloud", "Mirror.Cloud.csproj", "{1756DD9D-476B-BDFA-5FAB-4009B19FD1DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Examples.Cloud.Pong", "Mirror.Examples.Cloud.Pong.csproj", "{DDC3CCA5-1674-4CEE-58E0-9E946867F572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Weaver", "Mirror.Weaver.csproj", "{7D2D987B-8D81-6184-15F5-C47375DB4BE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParrelSync", "ParrelSync.csproj", "{9974A113-D5AF-98F1-B5D4-71A66CC40538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.Editor", "Mirror.Editor.csproj", "{D16638F8-7C1A-F67B-4A89-68192102CDA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirror.CompilerSymbols", "Mirror.CompilerSymbols.csproj", "{A214CC81-4CD1-0C78-D14F-4A082C089F48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{244396A4-E9DD-8FC7-5AAB-B1903E02F3ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F46B00-D706-1AA2-2E05-5C6163070386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F46B00-D706-1AA2-2E05-5C6163070386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F46B00-D706-1AA2-2E05-5C6163070386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F46B00-D706-1AA2-2E05-5C6163070386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5486A05D-5E66-F585-CC67-2E49827E5A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5486A05D-5E66-F585-CC67-2E49827E5A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5486A05D-5E66-F585-CC67-2E49827E5A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5486A05D-5E66-F585-CC67-2E49827E5A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D5AE34-2962-2545-E706-3D33BFA5C95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D5AE34-2962-2545-E706-3D33BFA5C95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D5AE34-2962-2545-E706-3D33BFA5C95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D5AE34-2962-2545-E706-3D33BFA5C95D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B64BE21-1F10-5C76-A3B0-09A385930FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B64BE21-1F10-5C76-A3B0-09A385930FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B64BE21-1F10-5C76-A3B0-09A385930FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B64BE21-1F10-5C76-A3B0-09A385930FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60D18E09-5B37-6FEE-6EB4-6368AC86905E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D18E09-5B37-6FEE-6EB4-6368AC86905E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D18E09-5B37-6FEE-6EB4-6368AC86905E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D18E09-5B37-6FEE-6EB4-6368AC86905E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F177CE4-9EC6-FD10-FB10-5BDAB7327E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F177CE4-9EC6-FD10-FB10-5BDAB7327E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F177CE4-9EC6-FD10-FB10-5BDAB7327E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F177CE4-9EC6-FD10-FB10-5BDAB7327E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EFA83C0-35D1-87D6-55D2-503A78297EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFA83C0-35D1-87D6-55D2-503A78297EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFA83C0-35D1-87D6-55D2-503A78297EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFA83C0-35D1-87D6-55D2-503A78297EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BDFF98C-7EE2-CD33-2D60-09A91E1D47B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BDFF98C-7EE2-CD33-2D60-09A91E1D47B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BDFF98C-7EE2-CD33-2D60-09A91E1D47B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BDFF98C-7EE2-CD33-2D60-09A91E1D47B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC0C7F7-4A23-23F6-DFA3-5477F73A63DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC0C7F7-4A23-23F6-DFA3-5477F73A63DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC0C7F7-4A23-23F6-DFA3-5477F73A63DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC0C7F7-4A23-23F6-DFA3-5477F73A63DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1756DD9D-476B-BDFA-5FAB-4009B19FD1DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1756DD9D-476B-BDFA-5FAB-4009B19FD1DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1756DD9D-476B-BDFA-5FAB-4009B19FD1DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1756DD9D-476B-BDFA-5FAB-4009B19FD1DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDC3CCA5-1674-4CEE-58E0-9E946867F572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC3CCA5-1674-4CEE-58E0-9E946867F572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC3CCA5-1674-4CEE-58E0-9E946867F572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC3CCA5-1674-4CEE-58E0-9E946867F572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D2D987B-8D81-6184-15F5-C47375DB4BE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2D987B-8D81-6184-15F5-C47375DB4BE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2D987B-8D81-6184-15F5-C47375DB4BE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2D987B-8D81-6184-15F5-C47375DB4BE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9974A113-D5AF-98F1-B5D4-71A66CC40538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9974A113-D5AF-98F1-B5D4-71A66CC40538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9974A113-D5AF-98F1-B5D4-71A66CC40538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9974A113-D5AF-98F1-B5D4-71A66CC40538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D16638F8-7C1A-F67B-4A89-68192102CDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16638F8-7C1A-F67B-4A89-68192102CDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16638F8-7C1A-F67B-4A89-68192102CDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16638F8-7C1A-F67B-4A89-68192102CDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A214CC81-4CD1-0C78-D14F-4A082C089F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A214CC81-4CD1-0C78-D14F-4A082C089F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A214CC81-4CD1-0C78-D14F-4A082C089F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A214CC81-4CD1-0C78-D14F-4A082C089F48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{244396A4-E9DD-8FC7-5AAB-B1903E02F3ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{244396A4-E9DD-8FC7-5AAB-B1903E02F3ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{244396A4-E9DD-8FC7-5AAB-B1903E02F3ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{244396A4-E9DD-8FC7-5AAB-B1903E02F3ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
